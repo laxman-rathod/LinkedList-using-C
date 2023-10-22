@@ -1,9 +1,9 @@
 # linkedList
- 
+
 A linked list is a fundamental data structure, It is a linear collection of data elements, where each element, called a node, consists of two parts: the actual data (or value) and a reference (or link) to the next node in the sequence. Linked lists provide a way to organize and store data in a dynamic, flexible manner.
 
 
-**Types of Linked Lists:**
+# **Types of Linked Lists:**
 
 1. **Singly Linked List:** In a singly linked list, each node points to the next node in the sequence. The last node typically points to a null reference, indicating the end of the list.
 
@@ -11,7 +11,7 @@ A linked list is a fundamental data structure, It is a linear collection of data
 
 3. **Circular Linked List:** A circular linked list is a variation of singly or doubly linked lists in which the last node points back to the first node, forming a loop. It can be useful for applications involving circular data structures, like scheduling or round-robin algorithms.
 
-**Applications of Linked Lists:**
+# **Applications of Linked Lists:**
 
 Linked lists are used in a variety of applications:
 
@@ -25,7 +25,7 @@ Linked lists are used in a variety of applications:
 
 5. **Undo Functionality:** Linked lists can be used to implement undo functionality in applications by storing previous states.
 
-**Advantages of Linked Lists:**
+# **Advantages of Linked Lists:**
 
 1. **Dynamic Size:** Linked lists can grow or shrink as needed, making them suitable for situations where the size of the data structure is not known in advance.
 
@@ -33,7 +33,7 @@ Linked lists are used in a variety of applications:
 
 3. **Memory Efficiency:** Linked lists only allocate memory for the actual data and references, which can be more memory-efficient compared to arrays.
 
-**Disadvantages of Linked Lists:**
+# **Disadvantages of Linked Lists:**
 
 1. **Random Access:** Accessing elements in a linked list by their index (like arrays) is inefficient because you have to traverse the list from the beginning.
 
@@ -43,6 +43,10 @@ Linked lists are used in a variety of applications:
 
 4. **Complexity:** Implementing and managing linked lists can be more complex than using arrays for some applications.
 
-Here is a output of my code:
+# Here is the output of my code:
 
 ![Linked List Demo](https://github.com/rathodlucky12/linkedList/assets/131651450/4bcadeb7-4958-4fdb-9433-9bc9bcb8de66)
+
+# Owner 🌟
+ - Name: Laxman Rathod
+ - GitHub: [Laxman Rathod](https://github.com/rathodlucky12)
