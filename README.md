@@ -43,3 +43,6 @@ Linked lists are used in a variety of applications:
 
 4. **Complexity:** Implementing and managing linked lists can be more complex than using arrays for some applications.
 
+Here is a output of my code:
+
+![Linked List Demo](https://github.com/rathodlucky12/linkedList/assets/131651450/4bcadeb7-4958-4fdb-9433-9bc9bcb8de66)
